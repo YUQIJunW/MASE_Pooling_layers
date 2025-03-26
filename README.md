@@ -6,7 +6,7 @@ Use instruction:
 - git clone forked version MASE 
 - Put all of the folders under the mase/src/mase_components
 
-Run the test file can test the functionality of layers
+Run the test file in the test folder can test the functionality of layers
 
 Run the test.py file can test the auto emiting 
 
