@@ -32,13 +32,10 @@ class MLP(torch.nn.Module):
 
     def __init__(self) -> None:
         super().__init__()
-
-        self.fc1 = nn. Linear(4, 8)
-        self.pool = nn.AdaptiveMaxPool1d(output_size=2)
-        self.relu = nn.ReLU()
+        self.pool = nn.LPPool2d(2, 2)
         
     def forward(self, x):
-        x = torch.flatten(x, start_dim=1, end_dim=-1)
+        # x = torch.flatten(x, start_dim=1, end_dim=-1)
         x = self.pool(x)
         return x
 

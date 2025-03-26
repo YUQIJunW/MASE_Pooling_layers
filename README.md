@@ -6,6 +6,9 @@ Use instruction:
 - git clone forked version MASE 
 - Put all of the folders under the mase/src/mase_components
 
+Run the test file can test the functionality of layers
+
+Run the test.py file can test the auto emiting 
 
 Currently following layers are added:
 - adaptive_avg_pool1d.sv
