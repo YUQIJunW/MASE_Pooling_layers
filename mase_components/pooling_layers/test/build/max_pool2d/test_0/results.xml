@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1742938846" />
+    <testcase name="cocotb_test_maxpool2d" classname="max_pool2d_tb" file="/root/mase-project/mase/src/mase_components/pooling_layers/test/max_pool2d_tb.py" lineno="120" time="0.04641842842102051" sim_time_ns="200.001" ratio_time="4308.655135541597" />
+  </testsuite>
+</testsuites>

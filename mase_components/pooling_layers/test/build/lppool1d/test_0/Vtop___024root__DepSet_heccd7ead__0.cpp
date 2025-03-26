@@ -46,7 +46,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[0U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 1U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -59,7 +59,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[1U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 2U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -72,7 +72,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[2U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 3U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -85,7 +85,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[3U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 4U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -98,7 +98,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[4U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 5U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -111,7 +111,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[5U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx = 6U;
     vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result = 0.0;
@@ -124,7 +124,7 @@ VL_INLINE_OPT void Vtop___024root___ico_sequent__TOP__0(Vtop___024root* vlSelf) 
            + pow(VL_ITOR_D_I(32, vlSelf->data_in_0[
                              (7U & ((IData)(1U) + vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__base_idx))]),2.0));
     lppool1d__DOT____Vlvbound_hf20a2f4f__0 = VL_RTOI_I_D(
-                                                         sqrt(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result));
+                                                         pow(vlSelf->lppool1d__DOT__unnamedblk1__DOT__unnamedblk2__DOT__result,5.00000000000000000e-01));
     vlSelf->lppool1d__DOT__data_out_0[6U] = lppool1d__DOT____Vlvbound_hf20a2f4f__0;
     vlSelf->lppool1d__DOT__data_out_0_valid = vlSelf->data_out_0_valid;
     vlSelf->lppool1d__DOT__data_in_0_ready = vlSelf->data_in_0_ready;
@@ -246,7 +246,7 @@ void Vtop___024root___eval(Vtop___024root* vlSelf) {
 #ifdef VL_DEBUG
             Vtop___024root___dump_triggers__ico(vlSelf);
 #endif
-            VL_FATAL_MT("/root/mase-project/mase/src/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "Input combinational region did not converge.");
+            VL_FATAL_MT("/root/mase-project/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "Input combinational region did not converge.");
         }
         __VicoIterCount = ((IData)(1U) + __VicoIterCount);
         __VicoContinue = 0U;
@@ -262,7 +262,7 @@ void Vtop___024root___eval(Vtop___024root* vlSelf) {
 #ifdef VL_DEBUG
             Vtop___024root___dump_triggers__nba(vlSelf);
 #endif
-            VL_FATAL_MT("/root/mase-project/mase/src/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "NBA region did not converge.");
+            VL_FATAL_MT("/root/mase-project/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "NBA region did not converge.");
         }
         __VnbaIterCount = ((IData)(1U) + __VnbaIterCount);
         __VnbaContinue = 0U;
@@ -273,7 +273,7 @@ void Vtop___024root___eval(Vtop___024root* vlSelf) {
 #ifdef VL_DEBUG
                 Vtop___024root___dump_triggers__act(vlSelf);
 #endif
-                VL_FATAL_MT("/root/mase-project/mase/src/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "Active region did not converge.");
+                VL_FATAL_MT("/root/mase-project/mase_components/pooling_layers/rtl/lppool1d.sv", 3, "", "Active region did not converge.");
             }
             vlSelf->__VactIterCount = ((IData)(1U) 
                                        + vlSelf->__VactIterCount);

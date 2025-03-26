@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1742938804" />
+    <testcase name="cocotb_test_lppool2d" classname="lp_pool2d_tb" file="/root/mase-project/mase/src/mase_components/pooling_layers/test/lp_pool2d_tb.py" lineno="122" time="0.053904056549072266" sim_time_ns="200.001" ratio_time="3710.314451342386" />
+  </testsuite>
+</testsuites>

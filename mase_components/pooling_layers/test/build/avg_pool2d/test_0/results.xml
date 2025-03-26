@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1742938783" />
+    <testcase name="cocotb_test_avgpool2d" classname="avg_pool2d_tb" file="/root/mase-project/mase/src/mase_components/pooling_layers/test/avg_pool2d_tb.py" lineno="120" time="0.04936861991882324" sim_time_ns="200.001" ratio_time="4051.1766447768114" />
+  </testsuite>
+</testsuites>

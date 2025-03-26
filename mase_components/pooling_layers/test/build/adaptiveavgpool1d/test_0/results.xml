@@ -1,6 +1,6 @@
 <testsuites name="results">
   <testsuite name="all" package="all">
-    <property name="random_seed" value="1742165659" />
-    <testcase name="cocotb_test_adaptiveavgpool1d" classname="adaptiveavgpool1d_tb" file="/root/mase-project/mase/src/mase_components/pooling_layers/test/adaptiveavgpool1d_tb.py" lineno="1" time="0.044168710708618164" sim_time_ns="200.001" ratio_time="4528.114966257685" />
+    <property name="random_seed" value="1742208508" />
+    <testcase name="cocotb_test_adaptiveavgpool1d" classname="adaptiveavgpool1d_tb" file="/root/mase-project/mase/src/mase_components/pooling_layers/test/adaptiveavgpool1d_tb.py" lineno="1" time="0.04934048652648926" sim_time_ns="200.001" ratio_time="4053.486580287897" />
   </testsuite>
 </testsuites>
