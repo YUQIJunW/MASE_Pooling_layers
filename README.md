@@ -4,7 +4,7 @@ The project used a forked version of MASE: https://github.com/YUQIJunW/mase
 
 Use instruction:
 - git clone forked version MASE 
-- Put all of the folders under the mase/src/mase_components
+- Put all of the folders into the folder under the mase/src/mase_components
 
 Run the test file in the test folder can test the functionality of layers
 
